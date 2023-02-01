@@ -79,10 +79,11 @@ format:
       - cosmo
       - r4ds.scss
     code-link: true
-
     author-meta: "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund"
     include-in-header: "plausible.html"
     callout-appearance: simple
+  asciidoc: default
+
 
 editor: visual
 
